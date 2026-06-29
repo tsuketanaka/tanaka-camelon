@@ -1,0 +1,6 @@
+{
+  "name": "Camelon Quotation Manager",
+  "description": "Mobile quotation generator for Camelon construction materials with dynamic transport calculation and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
